@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zama\\Downloads\\RentLog\\RentLog- Z\\RentLog.csproj": {}
+    "C:\\Users\\Zama\\Documents\\Projects\\Coding\\RentLog\\RentLog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zama\\Downloads\\RentLog\\RentLog- Z\\RentLog.csproj": {
+    "C:\\Users\\Zama\\Documents\\Projects\\Coding\\RentLog\\RentLog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zama\\Downloads\\RentLog\\RentLog- Z\\RentLog.csproj",
+        "projectUniqueName": "C:\\Users\\Zama\\Documents\\Projects\\Coding\\RentLog\\RentLog.csproj",
         "projectName": "RentLog",
-        "projectPath": "C:\\Users\\Zama\\Downloads\\RentLog\\RentLog- Z\\RentLog.csproj",
+        "projectPath": "C:\\Users\\Zama\\Documents\\Projects\\Coding\\RentLog\\RentLog.csproj",
         "packagesPath": "C:\\Users\\Zama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zama\\Downloads\\RentLog\\RentLog- Z\\obj\\",
+        "outputPath": "C:\\Users\\Zama\\Documents\\Projects\\Coding\\RentLog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Zama\\Downloads\\RentLog\\RentLog- Z\\NuGet.Config",
+          "C:\\Users\\Zama\\Documents\\Projects\\Coding\\RentLog\\NuGet.Config",
           "C:\\Users\\Zama\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

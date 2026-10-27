@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nSmjl7VoJos=",
+  "dgSpecHash": "84E6VO+/hDo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zama\\Downloads\\RentLog\\RentLog- Z\\RentLog.csproj",
+  "projectFilePath": "C:\\Users\\Zama\\Documents\\Projects\\Coding\\RentLog\\RentLog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zama\\.nuget\\packages\\birdmessenger\\4.0.0\\birdmessenger.4.0.0.nupkg.sha512",
     "C:\\Users\\Zama\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.11\\microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512",
