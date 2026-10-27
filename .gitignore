@@ -1,6 +1,5 @@
 # Visual Studio
 .vs/
-bin/
 obj/
 *.user
 
@@ -10,3 +9,5 @@ package-lock.json
 
 # Local artifacts
 *.log
+
+appsettings.json
